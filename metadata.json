@@ -1,0 +1,6 @@
+{
+  "name": "Bodskad - Tibetan Translator",
+  "description": "Tibetan voice and text translator with dialect nuances (Central/Lhasa, Amdo, Kham, Dharma), cultural context notes, offline dictionary, flashcards SRS, and milestone analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
